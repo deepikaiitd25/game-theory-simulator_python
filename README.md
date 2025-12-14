@@ -10,8 +10,7 @@ A modular simulation framework for analyzing strategic behavior in classic 2-pla
 ##  Features
 - One-shot and repeated game simulations
 - Strategy tournaments (Tit-for-Tat, Grim Trigger, Always Defect, etc.)
-- Replicator dynamics for population evolution with evolution plots
-- 
+- Replicator dynamics for population evolution with evolution plots 
 
 ## Sample Output
 <img width="1164" height="667" alt="image" src="https://github.com/user-attachments/assets/4814f8d6-fd1b-44d3-9fd9-451900895ad0" />
